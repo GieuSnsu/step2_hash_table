@@ -94,4 +94,4 @@ def performance_test():
 
 if __name__ == "__main__":
     functional_test()
-    # performance_test()
+    performance_test()
